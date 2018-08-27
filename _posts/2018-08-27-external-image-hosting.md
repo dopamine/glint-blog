@@ -1,10 +1,20 @@
 ---
 published: true
 layout: post
-title: External static image hosting for Jekyll using Dropbox
+title: Jekyll blog setup links
 ---
-This post is incredibly helpful about [how to host images on Dropbox for Jekyll](https://milanaryal.com.np/hosting-images-with-dropbox-on-your-website/)
+I'll just use this post to keep track of ace resources & guides on various topics while I'm setting this thing up.
 
+## External iamge hosting with Dropbox
+
+[how to host images on Dropbox for Jekyll](https://milanaryal.com.np/hosting-images-with-dropbox-on-your-website/)
+
+Like this:
 ![xiple avatar](https://dl.dropboxusercontent.com/s/w1fzh5qdwquqzwg/avatar.png?dl=0)
 
-This editor is trying to be helpful though, inserting my baseurl when I don't need it.
+Just remember that prose.io is trying to be a little too helpful and inserts the baseurl when I don't need it.
+
+## Setting up categories/tags
+
+[Guide on cat/tag setup for Jekyll](https://blog.webjeda.com/jekyll-categories/)
+Also an interesting article from same person on [Collections](https://blog.webjeda.com/jekyll-collections/)
