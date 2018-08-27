@@ -4,9 +4,9 @@ title: You're up and running!
 published: true
 ---
 
-Fruitcake tootsie roll dragée sesame snaps sesame snaps gummi bears. Chocolate lollipop gummi bears biscuit icing halvah chupa chups carrot cake cake. Sweet roll bear claw dragée I love. Cake sugar plum bear claw chocolate bar oat cake caramels halvah jujubes oat cake. Liquorice cake cheesecake tootsie roll powder. Gummies fruitcake liquorice ice cream candy toffee muffin jujubes I love.
+Fruitcake tootsie roll dragée sesame snaps sesame snaps gummi bears. Chocolate lollipop gummi bears biscuit icing halvah chupa chups carrot cake cake. Sweet roll bear claw dragée I love. Cake sugar plum bear claw chocolate bar oat cake caramels halvah jujubes oat cake. Liquorice cake cheesecake tootsie roll powder. [First One Home Wins!](/glint-remote/) Gummies fruitcake liquorice ice cream candy toffee muffin jujubes I love.
 
-[First One Home Wins!](/glint-remote/)
+![xiple avatar]({{site.baseurl}}/https://dl.dropboxusercontent.com/s/w1fzh5qdwquqzwg/avatar.png?dl=0)
 
 It still needs styled up forr sure but this is a great cheap start, yey!
 
