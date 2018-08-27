@@ -18,3 +18,7 @@ Just remember that prose.io is trying to be a little too helpful and inserts the
 
 [Guide on cat/tag setup for Jekyll](https://blog.webjeda.com/jekyll-categories/)
 Also an interesting article from same person on [Collections](https://blog.webjeda.com/jekyll-collections/)
+
+## Password protected area
+
+This is a sort of hiding-in-plain-sight method, but it could be sufficient: [Using a shared secret's hash as hidden directory name](https://github.com/matteobrusa/Password-protection-for-static-pages)
