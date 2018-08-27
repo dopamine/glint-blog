@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: Jekyll blog setup links
+categories: other
 ---
 I'll just use this post to keep track of ace resources & guides on various topics while I'm setting this thing up.
 
