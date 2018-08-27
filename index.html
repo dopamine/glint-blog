@@ -9,10 +9,13 @@ layout: glintblog
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-        {{ post.excerpt }}
+        <p>
+          {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more" title='Keep on reading'>...</a>
+        </p>
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more" title='Keep on reading'>...</a>
+
     </article>
   {% endfor %}
 </div>
