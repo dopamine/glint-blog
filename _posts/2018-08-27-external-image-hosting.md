@@ -6,6 +6,12 @@ categories: other
 ---
 I'll just use this post to keep track of ace resources & guides on various topics while I'm setting this thing up.
 
+## highlight active nav item with pug
+
+this github thread has good information on [how to add an .active class to the current nav item with Pug](https://github.com/pugjs/pug/issues/166)
+
+
+
 ## External iamge hosting with Dropbox
 
 [how to host images on Dropbox for Jekyll](https://milanaryal.com.np/hosting-images-with-dropbox-on-your-website/)
