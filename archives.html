@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /archives/
-title: Archives by category
+title: Blog archives
 ---
 
 
@@ -17,8 +17,8 @@ title: Archives by category
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
       <h4>
+        <small class='archive-date'>{{ post.date  | date: "%B %e, %Y" }}</small> &middot; 
         <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
-        <small>{{ post.date  | date: "%B %e, %Y" }}</small>
       </h4>
     </article>
     {% endfor %}
